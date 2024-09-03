@@ -18,34 +18,6 @@ The metabolic analysis of cancer spheroids treated with the monoclonal antibody 
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
 **_References_**
 
 Hua, D., Liu, X., Go, E. P., Wang, Y., Hummon, A. B., & Desaire, H. (2020). How to Apply Supervised Machine Learning Tools to MS Imaging Files: Case Study with Cancer Spheroids Undergoing Treatment with the Monoclonal Antibody Cetuximab. _Journal of the American Society for Mass Spectrometry_, _31_(7), 1350–1357. <https://doi.org/10.1021/jasms.0c00010>
